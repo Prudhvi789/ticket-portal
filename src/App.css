@@ -28,6 +28,36 @@
   color: #61dafb;
 }
 
+.title{
+  margin-left: 28px;
+  border-style: groove;
+}
+
+.owner{
+  border-style: groove;
+    margin-left: 12px;
+}
+
+h1{
+text-align: center;
+border: 2px solid cadetblue;
+background-color: #cb3b3b;
+color: white;
+font-family: fangsong;
+}
+
+h2{
+  border-bottom: 2px solid #17a2b8;
+  color: teal;
+}
+
+.main{
+  text-align: center;
+  border-style: outset;
+  border-width: 5px 5px 5px 5px;
+  border-color: whitesmoke;
+  padding: 2rem;
+}    
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
